@@ -1,0 +1,65 @@
+DAY 1. TASK
+
+TASK 1: WRITE A BLOG ON DIFFERENCE BETWEEN HTTP 1.1 VS HTTP2.
+
+HTTP 1.1:
+
+Hyper Text Transfer Protocol 1.1 is the latest version of http.
+it is an world wide web application protocol 
+that runs on top of the Internet's TCP/IP suits of protocol.
+
+http 1.1 has been providing fastest delivery in the web page.
+
+http1.1 load single request for every tcp connection 
+
+it can work on the textual format.
+
+there is head of line blocking so it blocks behind it until it doesn't  get
+all its  resource.
+
+it compress the data by itself.
+
+
+HTTP 2.
+
+Hyper Text Transfer Protocol 2 is much faster than http1 . http 2 is more 
+relieable so the user can use easily without any lack .
+
+http 2 avoid network delay by using multiplexing.
+
+it was developed over the SPDY PROTOCOL.
+
+hear we used one tcp connection for many request 
+
+it can work as a binary protocol
+
+it uses for HPACK For Data compression.
+
+
+
+TASK 2:
+
+Write a blog about objects and
+its internal representation in Javascript.
+
+Loosely speaking, objects in JavaScript may be
+defined as an unordered collection of related data, 
+of primitive or reference types, in the form of “key:
+value” pairs. These keys can be variables or 
+functions and are called properties and methods,
+respectively, in the context of an object.
+
+objects:
+
+In JavaScript, objects are king. 
+If you understand objects,
+you understand JavaScript.
+
+codekata practice:
+input/output has completed 10 problem.
+
+webkata practice:
+html I have done 5 problem.
+
+
+
